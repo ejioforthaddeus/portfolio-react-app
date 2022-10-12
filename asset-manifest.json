@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-app/static/css/main.ca078e7b.css",
+    "main.js": "/portfolio-react-app/static/js/main.f3b73aba.js",
+    "static/media/cap2.PNG": "/portfolio-react-app/static/media/cap2.3e9f42b831bc296f1c5d.PNG",
+    "static/media/cap3.PNG": "/portfolio-react-app/static/media/cap3.9f9916215f9f523ffa9e.PNG",
+    "static/media/cap1.PNG": "/portfolio-react-app/static/media/cap1.6071ae16e1db7efe2efc.PNG",
+    "static/media/cap5.PNG": "/portfolio-react-app/static/media/cap5.13a5ae05a6807868b9fe.PNG",
+    "static/media/eji.png": "/portfolio-react-app/static/media/eji.2aa3e81f1961c870e0e2.png",
+    "static/media/eji.jpg": "/portfolio-react-app/static/media/eji.1a86b1257ee2aa6561ad.jpg",
+    "static/media/pablo.jpg": "/portfolio-react-app/static/media/pablo.f3874fc9754e584b0c81.jpg",
+    "static/media/pablo4.jpg": "/portfolio-react-app/static/media/pablo4.80f4eb8f4e222ecb01b9.jpg",
+    "static/media/hero_image_back.png": "/portfolio-react-app/static/media/hero_image_back.9f54bfba33048f4ca688.png",
+    "static/media/profile.jfif": "/portfolio-react-app/static/media/profile.2f435533a04b21568240.jfif",
+    "index.html": "/portfolio-react-app/index.html",
+    "static/media/resume.pdf": "/portfolio-react-app/static/media/resume.31d6cfe0d16ae931b73c.pdf",
+    "main.ca078e7b.css.map": "/portfolio-react-app/static/css/main.ca078e7b.css.map",
+    "main.f3b73aba.js.map": "/portfolio-react-app/static/js/main.f3b73aba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca078e7b.css",
+    "static/js/main.f3b73aba.js"
+  ]
+}
