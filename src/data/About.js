@@ -1,4 +1,4 @@
-import image1 from "../assets/profile.jfif";
+import image1 from "../assets/eji.jpg";
 import image2 from "../assets/pablo.jpg";
 import image3 from "../assets/pablo4.jpg";
 
@@ -7,8 +7,8 @@ export const testimonialsData = [
     image: image1,
     review:
       "tee code helps you to Go from no-code to an in-demand junior web developer at a fraction of the cost of a bootcamp Start with the front-endbylearning HTML,CSS and JavaScript. Then, master the back-end and APIs to round out your full-stack skills.",
-    name: 'master clem',
-    status : 'ENTREPRENEUR software engineer'
+    name: 'thade',
+    status : 'ENTREPRENEUR'
   },
   {
     image: image2,
